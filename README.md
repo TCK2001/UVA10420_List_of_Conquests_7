@@ -4,7 +4,7 @@
 ```c++
 map<string,int>country;
 ```
-### #We used map to solve this question ,first one is save country name , and the second one is save how many the country will input.
+#### We used map to solve this question ,first one is save country name , and the second one is save how many the country will input.
 -----
 ```c++
 for(int i=0;i<c;i++) //중요한건 map임;  
